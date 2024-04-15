@@ -1,0 +1,11 @@
+.bar {
+  &--top {
+    padding-top: 20px;
+  }
+
+  &--bottom {
+    padding-bottom: 20px;
+    display: flex;
+    justify-content: center;
+  }
+}

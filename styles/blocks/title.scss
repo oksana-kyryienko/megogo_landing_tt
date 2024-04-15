@@ -1,0 +1,20 @@
+.title {
+  font-weight: 700;
+  text-align: left;
+  padding-bottom: 20px;
+
+  &--big {
+    font-size: 36px;
+    line-height: 42px;
+  }
+
+  &--medium {
+    font-size: 30px;
+    line-height: 36px;
+  }
+
+  &--small {
+    font-size: 24px;
+    line-height: 28px;
+  }
+}

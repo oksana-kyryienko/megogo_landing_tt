@@ -1,0 +1,26 @@
+@import './utils/variables';
+@import './utils/mixins';
+@import './blocks/page';
+@import './blocks/header';
+@import './blocks/icon';
+@import './blocks/title';
+@import './blocks/bar.scss';
+@import './blocks/reset';
+@import './blocks/ad';
+@import './blocks/subscription';
+@import './blocks/button';
+@import './blocks/advantages';
+@import './blocks/img-container';
+@import './blocks/gifts';
+@import './blocks/overlay';
+
+.container {
+  margin: 0 auto;
+  max-width: 1020px;
+  padding: 20px 40px 0;
+}
+
+
+html, body {
+  overflow: visible;
+}

@@ -1,0 +1,19 @@
+.advantages {
+  background-color: $main-color;
+
+  &__content {
+    display: flex;
+    justify-content: space-between;
+    max-width: 400px;
+    padding-bottom: 50px;
+  }
+  &__info {
+    display: flex;
+    padding-top: 20px;
+    flex-direction: column;
+  }
+
+  &__text {
+    padding-top: 15px;
+  }
+}

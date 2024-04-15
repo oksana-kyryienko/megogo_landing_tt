@@ -1,0 +1,10 @@
+.gifts {
+  &__images {
+    padding-top: 30px;
+    
+
+    > .img-container:first-child {
+      padding-bottom: 16px;
+    }
+  }
+}

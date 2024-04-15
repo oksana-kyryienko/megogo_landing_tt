@@ -1,0 +1,13 @@
+.page {
+  box-sizing: border-box;
+  font-family: 'Inter', 'san-serif';
+  color: $text-color;
+  background-color: $main-color;
+
+  scroll-behavior: smooth;
+  
+  &__section {
+    box-sizing: border-box;
+    height: 100vh;
+  }
+}
